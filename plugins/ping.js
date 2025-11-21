@@ -23,7 +23,7 @@ cmd({
     
     // Beautiful ping message
     const message = `
-⚡ *PK-XMD PING RESULTS* ⚡
+⚡ *REAGAN-XMD PING RESULTS* ⚡
 
 🏓 Response Speed: ${speed}ms
 🌍 Server Location: Africa/Nairobi
@@ -36,7 +36,7 @@ cmd({
     // Newsletter context
     const contextInfo = {
       externalAdReply: {
-        title: "PK-XMD • PING",
+        title: "REAGAN-XMD • PING",
         body: `Response: ${speed}ms`,
         thumbnailUrl: 'https://files.catbox.moe/fgiecg.jpg',
         sourceUrl: 'https://github.com/mejjar00254/PK-XMD',
@@ -47,7 +47,7 @@ cmd({
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: "120363288304618280@newsletter",
-        newsletterName: "PK-XMD Official",
+        newsletterName: "REAGAN-XMD Official",
         serverMessageId: 456
       }
     };
