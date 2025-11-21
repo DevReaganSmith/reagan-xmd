@@ -6,7 +6,7 @@ const os = require("os");
 // Register a command
 cmd({
   pattern: "menu",
-  desc: "Display Queen Omines xmd Command Menu",
+  desc: "Display Dev Reagan xmd Command Menu",
   category: "main",
   filename: __filename
 }, async (conn, message, { reply }) => {
@@ -14,7 +14,7 @@ cmd({
     // Basic Info
     const date = moment().tz("Africa/Nairobi").format("dddd, MMMM Do YYYY, HH:mm:ss");
     const uptime = runtime(process.uptime());
-    const owner = "PK-XMD";
+    const owner = "DEV REAGAN-XMD";
     const prefix = "*";
     const commandsCount = Object.values(commands).length;
     const ram = (process.memoryUsage().rss / 1024 / 1024).toFixed(2) + " MB";
@@ -70,8 +70,8 @@ cmd({
     menuText += `
 ─────────────────────
 💬 "${quote}"
-│  ✨ Powered by Mark
-│  🏆 Next_Level_Mark
+│  ✨ Powered by Reagan
+│  🏆 Dev Reagan Smith
 ╰────────────────╯
 `;
 
@@ -86,7 +86,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: "0029VavJhrh7tkj8dCeRKh3b@newsletter",
-            newsletterName: "Mark",
+            newsletterName: "Dev Reagan",
             serverMessageId: -1
           }
         }
@@ -106,7 +106,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: "0029VavJhrh7tkj8dCeRKh3b@newsletter",
-            newsletterName: "Mark",
+            newsletterName: "Dev Reagan",
             serverMessageId: -1
           }
         }
