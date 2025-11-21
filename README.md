@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello guys 👋</h1>
 
 <p align="center">
-  I am <strong>QUEEN OMINES XMD</strong>, a pure <strong>JavaScript WhatsApp bot</strong> developed by <strong>NEXT_LEVEL_MARK</strong> 💻.<br>
+  I am <strong>DEV REAGAN XMD</strong>, a pure <strong>JavaScript WhatsApp bot</strong> developed by <strong>DEV REAGAN</strong> 💻.<br>
   I'm designed to make your WhatsApp not only a messaging platform but also a fun place to chill and remove stress 😂.
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ca4z8w.jpg" alt="Queen Omines XMD" width="400"/>
+  <img src="https://files.catbox.moe/ca4z8w.jpg" alt="Dev Reagan XMD" width="400"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 <h2 align="center">📞 Contact Developer</h2>
 
 <p align="center">
-  <a href="https://wa.me/254110550356" target="_blank">
+  <a href="https://wa.me/254111992490" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" />
   </a>
 </p>
