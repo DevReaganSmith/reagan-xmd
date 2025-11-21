@@ -18,11 +18,11 @@
 1️⃣ 𝐅𝐎𝐑𝐊 𝐀𝐍𝐃 𝐒𝐓𝐀𝐑 𝐓𝐇𝐈𝐒 𝐑𝐄𝐏𝐎
 
 <p align="center">
-  <a href="https://github.com/Next-evel-mark/Queen-Omines-xmd/fork">
+  <a href="https://github.com/DevReaganSmith/reagan-xmd/fork">
     <img src="https://img.shields.io/badge/FORK-02569B?style=for-the-badge&logo=github&logoColor=white&labelColor=02569B&color=02569B" alt="Fork this repo" width="120"/>
   </a>
 
-  <a href="https://github.com/Next-evel-mark/Queen-Omines-xmd/stargazers">
+  <a href="https://github.com/DevReaganSmith/reagan-xmd/stargazers">
     <img src="https://img.shields.io/github/stars/Next-evel-mark/Queen-Omines-xmd?style=for-the-badge&logo=github&label=Star&color=FFD700" alt="Star this repo" width="120"/>
   </a>
 
